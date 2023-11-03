@@ -9,7 +9,7 @@
 
 ![Euu.th GitHub stats](https://github-readme-stats.vercel.app/api?username=eoopeixee&theme=dark&show_icons=true&theme=onedark)
 
-## Tecnologias do meu dia
+## Technologies of my day
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -18,4 +18,4 @@
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div><br/>
 
-Não é a linguagem de programação que define o programador, mas sim sua lógica.
+It is not the programming language that defines the programmer, but rather its logic.
