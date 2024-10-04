@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eoo.th_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-santana-26b059293/)
 
-![Euu.th GitHub stats](https://github-readme-stats.vercel.app/api?username=eoopeixee&theme=dark&show_icons=true&theme=onedark)
+![Euu.th GitHub stats](https://github-readme-stats.vercel.app/api?username=kjkksaint&theme=dark&show_icons=true&theme=onedark)
 
 ##
 ### Technologies of my day
