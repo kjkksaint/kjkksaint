@@ -20,6 +20,9 @@
 </div>
 
 ### It is not the programming language that defines the programmer, but rather its logic.
+##
+
+![snake gif](https://github.com/juninho15830/juninho15830/blob/output/github-contribution-grid-snake.gif)
 
 ##
 ![](https://media1.tenor.com/m/8-3I6vR6J7kAAAAC/tooruoikawa-oikawa.gif)
