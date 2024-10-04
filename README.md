@@ -7,8 +7,6 @@
 ![Euu.th GitHub stats](https://github-readme-stats.vercel.app/api?username=kjkksaint&theme=dark&show_icons=true&theme=onedark)
 ##
 
-![](https://media1.tenor.com/m/8-3I6vR6J7kAAAAC/tooruoikawa-oikawa.gif)
-
 ##
 ### Technologies of my day
 
@@ -22,4 +20,7 @@
 </div>
 
 ### It is not the programming language that defines the programmer, but rather its logic.
+
+##
+![](https://media1.tenor.com/m/8-3I6vR6J7kAAAAC/tooruoikawa-oikawa.gif)
 
