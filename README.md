@@ -19,3 +19,5 @@
 </div>
 
 ### It is not the programming language that defines the programmer, but rather its logic.
+
+https://media1.tenor.com/m/8-3I6vR6J7kAAAAC/tooruoikawa-oikawa.gif
