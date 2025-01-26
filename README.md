@@ -1,7 +1,7 @@
 # Hi i'm Thiago 👋🏽
 ### I'm online below
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imnot.saint_/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fts.saint_/)
 
 ![Euu.th GitHub stats](https://github-readme-stats.vercel.app/api?username=kjkksaint&theme=dark&show_icons=true&theme=onedark)
 
