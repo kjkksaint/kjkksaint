@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Kali" height="30" width="40" src="https://github.com/simple-icons/simple-icons/blob/4a3c704ae73348bc1b8ecccd40d6a73d9497dfad/icons/kalilinux.svg?short_path=f308f11#L1">
+  <img align="center" alt="Rafa-Kali" height="30" width="40" src="">
 </div>
 
 ### It is not the programming language that defines the programmer, but rather its logic.
