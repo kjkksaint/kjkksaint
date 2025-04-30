@@ -1,9 +1,9 @@
-# Hi i'm Thiago 👋🏽
-
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kjkksaint_/)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thiago+Santana!;" />
+</h1>
 
 ![kjkksaint GitHub stats](https://github-readme-stats.vercel.app/api?username=kjkksaint&theme=dark&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjkksaint&layout=compact)
 
 ##
 
@@ -23,6 +23,8 @@
 </div>
 
 ### It is not the programming language that defines the programmer, but rather its logic.
+##
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kjkksaint_/)
 ##
 ![](https://media1.tenor.com/m/8-3I6vR6J7kAAAAC/tooruoikawa-oikawa.gif)
 
