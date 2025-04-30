@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thiago+Santana!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Guys!+👋;+I'm+Thiago+Santana!;" />
 </h1>
 
 ![kjkksaint GitHub stats](https://github-readme-stats.vercel.app/api?username=kjkksaint&theme=dark&show_icons=true&theme=onedark)
