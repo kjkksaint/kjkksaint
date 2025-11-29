@@ -6,9 +6,7 @@
   Developer • Ethical Hacking Enthusiast • Automation Specialist
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=450&lines=Python+Developer;Security+and+Automation+Engineer;Dark+Mode+Always+On" alt="Typing SVG" />
-</p>
+
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kjkksaint&show_icons=true&theme=dark&count_private=true&hide_border=true&custom_title=GitHub+Activity" />
